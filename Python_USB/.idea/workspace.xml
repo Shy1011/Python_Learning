@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b889be-deab-41e7-8c4e-304dc25ab698" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Serial_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Others/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Others/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serialGUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hid_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hid_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Serial_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Serial_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +37,14 @@
     "Python.Hid_1.executor": "Run",
     "Python.Serial_01.executor": "Run",
     "Python.Serial_02.executor": "Run",
+    "Python.serialGUI.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/pisem/Desktop/Python_Learning/Python_USB",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.externalTools"
   }
 }]]></component>
   <component name="SharedIndexes">
