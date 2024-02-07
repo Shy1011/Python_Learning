@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ead4945-6866-4f82-a168-b05b5c403e0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/Webview.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/Webviewengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/testWb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/test_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/testp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/testwedget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/webviewtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/webviewtest3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/Test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/Test_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/Test_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/Test_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/Test_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/serial_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Excel/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Usb_Protocol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/QDialogDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/QDialogDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/shutdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/shutdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/shutdown.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/shutdown.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/shutdown_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/shutdown_1.py" afterDir="false" />
-    </list>
+    <list default="true" id="2ead4945-6866-4f82-a168-b05b5c403e0c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/pisem/Desktop/Python_Learning/Python_Others",
+    "last_opened_file_path": "C:/Users/pisem/Desktop/Python_Learning/Python_USB",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
