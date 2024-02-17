@@ -6,30 +6,22 @@ from serial.tools import list_ports  # 找串口设备需要的包
 """
 
 class SerialPort():
-    port = "COM2"
-    baudrate = 9600
-    timeout = 0.01
-
 
     def defaultSet(self):
-        self.port = "COM2"
-        self.baudrate = 9600
-        self.timeout = 0.01
+        self.ser = serial.Serial()  # 一定要先初始化才能进行后面的操作 否则就会出错
+        self.ser.port = "COM1"  # 不区分大小写
+        self.ser.baudrate = 9600
+        self.ser.timeout = 0.01
 
     def openSerial(self):
-        self.ser = serial.Serial() # 这句话就是自动打开串口
-        # self.ser = serial.Serial()
-        # self.ser.port = "COM2"  # 不区分大小写
-        # self.ser.baudrate = 9600
-        # self.ser.timeout = 0.01
         self.ser.open()  # 打开端口
 
     def closeSerial(self):
         self.ser.close()
 
-    def sendData(self):
+    def sendData(self,words):
         # 串口发送
-        self.ser.write('Hello'.encode('utf-8')) # 发送数据
+        self.ser.write(words.encode('utf-8')) # 发送数据
 
 
     def ReceiveData(self):
@@ -41,6 +33,7 @@ class SerialPort():
                 # print(data) #
                 rec_str = data.decode('utf-8')
                 print(rec_str)
+                return rec_str
 
     def searchPort(self):
 
@@ -75,6 +68,6 @@ class SerialPort():
 
 # ser.close() # 关闭端口
 
-serial1 = SerialPort()
-
-serial1.searchPort()
+# serial1 = SerialPort()
+#
+# serial1.searchPort()

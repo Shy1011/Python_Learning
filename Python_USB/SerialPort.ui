@@ -29,7 +29,7 @@ font: 11pt &quot;楷体&quot;;</string>
    <property name="title">
     <string>串口设置</string>
    </property>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>30</x>
@@ -416,7 +416,7 @@ font: 11pt &quot;楷体&quot;;</string>
    <property name="title">
     <string>接收设置</string>
    </property>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -555,6 +555,29 @@ p, li { white-space: pre-wrap; }
    </property>
    <property name="text">
     <string>打开/关闭串口</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>720</y>
+     <width>141</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>372</x>
+     <y>650</y>
+     <width>241</width>
+     <height>21</height>
+    </rect>
    </property>
   </widget>
  </widget>
