@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b889be-deab-41e7-8c4e-304dc25ab698" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/variableChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorDeal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hintDialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SerialPort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SerialPort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SerialPort.ui" beforeDir="false" afterPath="$PROJECT_DIR$/SerialPort.ui" afterDir="false" />
@@ -26,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -34,21 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Hid_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Serial_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Serial_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.serialGUI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/RanShy/Desktop/Python_Learning/Python_USB&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Hid_1.executor": "Run",
+    "Python.Serial_01.executor": "Run",
+    "Python.Serial_02.executor": "Run",
+    "Python.errorDeal.executor": "Run",
+    "Python.hintDialog.executor": "Run",
+    "Python.serialGUI.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.thread.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/pisem/Desktop/Python_Learning/Pyqt5_Pi_Semi",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

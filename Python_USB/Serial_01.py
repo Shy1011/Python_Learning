@@ -56,13 +56,13 @@ class SerialPort():
 
 
     def  setBaudrate(self,baudrate):
-        self.baudrate = baudrate
+        self.ser.baudrate = baudrate
 
     def setTimeout(self,timeout):
-        self.timeout = timeout
+        self.ser.timeout = timeout
 
     def setPort(self,port):
-        self.port = port
+        self.ser.port = port  # 不区分大小写
 
 
 
