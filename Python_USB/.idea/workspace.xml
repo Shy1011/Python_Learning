@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b889be-deab-41e7-8c4e-304dc25ab698" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/radioButton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/testBench.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/testRaw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pyqt5_Pi_Semi/测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hid_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instrument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instrumentTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerialPort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SerialPort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SerialPort.ui" beforeDir="false" afterPath="$PROJECT_DIR$/SerialPort.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serial_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Serial_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serialGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/serialGUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
