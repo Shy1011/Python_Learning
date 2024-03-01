@@ -21,7 +21,9 @@ class SerialPort():
 
     def sendData(self,words):
         # 串口发送
+        stop = bytes([170, 0, 0, 0, 0, 0, 187])  # 定义结束指令(aa 00 00 00 00 00 bb)
         self.ser.write(words.encode('utf-8')) # 发送数据
+        # self.ser.write(words.encode('utf-8'))  # 发送数据
 
 
     def ReceiveData(self):
@@ -32,8 +34,10 @@ class SerialPort():
             if data:
                 # print(data) #
                 rec_str = data.decode('utf-8')
+                rec_hex = ' '.join([hex(x) for x in data])
                 print(rec_str)
-                return rec_str
+                print(type(rec_str))
+                return rec_str,rec_hex
 
     def searchPort(self):
 
