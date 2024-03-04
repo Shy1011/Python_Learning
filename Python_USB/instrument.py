@@ -18,12 +18,12 @@ multimeter.write('CONF:VOLT:DC AUTO') # 设置为DC电压测量模式 量程自�
 voltage = multimeter.query('READ?')
 
 # 监测电压直到值小于
-while(True) :
-    voltage = multimeter.query('READ?')
-    value = abs(2.50 - float(voltage))
-    if(value < 0.02) :
-        print("Pass")
-        break
+# while(True) :
+#     voltage = multimeter.query('READ?')
+#     value = abs(2.50 - float(voltage))
+#     if(value < 0.02) :
+#         print("Pass")
+#         break
 
 
 print(f"Measured Voltage: {voltage} V")
