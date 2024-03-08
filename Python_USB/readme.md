@@ -89,7 +89,3 @@ self.textBrowser.setText(data)：这行代码在update_received_data方法中被
 ## 串口接收数据
 最后使用线程 + 自定义信号完成了串口数据的接收  
 
-
-# 自动重发
-出现问题  
-原因 : 还不知道是什么原因  

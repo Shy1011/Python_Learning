@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5b889be-deab-41e7-8c4e-304dc25ab698" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instrumentTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/instrumentTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Debug.executor": "Run",
     "Python.Hid_1.executor": "Run",
     "Python.Hid_2.executor": "Run",
     "Python.Hid_3.executor": "Run",
     "Python.Serial_01.executor": "Run",
     "Python.Serial_02.executor": "Run",
+    "Python.debug.executor": "Run",
     "Python.errorDeal.executor": "Run",
     "Python.guiTest.executor": "Run",
     "Python.hintDialog.executor": "Run",
@@ -48,14 +54,20 @@
     "Python.serialGUI.executor": "Run",
     "Python.test.executor": "Run",
     "Python.thread.executor": "Run",
+    "Python.thread2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/pisem/Desktop/Python_Serial",
+    "last_opened_file_path": "C:/Users/pisem/Desktop/Python_Learning/Python_USB",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pisem\Desktop\Python_Learning\Python_USB" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

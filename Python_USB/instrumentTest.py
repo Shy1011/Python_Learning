@@ -23,10 +23,10 @@ rm = pyvisa.ResourceManager()
 print(rm.list_resources()) # 打印出所有万用表的地址
 #
 # # 打开与仪器的会话（这里需要替换为你的仪器地址）
-my_instrument = rm.open_resource('USB0::0x2184::0x0059::GEW912502::INSTR')
-#
-# # 查询仪器标识
-print(my_instrument.query('*IDN?'))
-#
-# # 关闭会话
-my_instrument.close()
+# my_instrument = rm.open_resource('USB0::0x2184::0x0059::GEW912502::INSTR')
+# #
+# # # 查询仪器标识
+# print(my_instrument.query('*IDN?'))
+# #
+# # # 关闭会话
+# my_instrument.close()
